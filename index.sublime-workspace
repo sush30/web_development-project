@@ -1,0 +1,477 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"consu",
+				"consumer_id"
+			],
+			[
+				"fo",
+				"fopen"
+			],
+			[
+				"file_",
+				"file_get_contents"
+			],
+			[
+				"des",
+				"descrip"
+			],
+			[
+				"f",
+				"fclose"
+			],
+			[
+				"write",
+				"write_file"
+			],
+			[
+				"inp",
+				"input"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"get",
+				"getdate"
+			],
+			[
+				"my",
+				"mysql_errno"
+			],
+			[
+				"user",
+				"user_name"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"select_consumer_",
+				"select_consumer_dlt"
+			],
+			[
+				"di",
+				"disabled"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"property",
+				"property_id"
+			],
+			[
+				"pro",
+				"property_id"
+			],
+			[
+				"amount",
+				"amount_paid"
+			],
+			[
+				"qu",
+				"query"
+			],
+			[
+				"data",
+				"database"
+			],
+			[
+				"set_",
+				"set_property"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"my_",
+				"my_model"
+			],
+			[
+				"tru",
+				"TRUE"
+			],
+			[
+				"log",
+				"login_form"
+			],
+			[
+				"user_",
+				"user_name"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"li",
+				"library"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"inpu",
+				"input_consumer_id"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"read",
+				"readfile"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ph",
+				"php"
+			],
+			[
+				"ch",
+				"check"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"textal",
+				"text-align"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"t",
+				"transparent"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"po",
+				"background-position"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"backgro",
+				"background-color"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"sh",
+				"box-shadow"
+			],
+			[
+				"b",
+				"box-shadow"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"phpi",
+				"phpinfo"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/cd_igniter/application/views/property_update.php",
+		"/C/xampp/htdocs/cd_igniter/application/views/get_property_id.php",
+		"/C/xampp/htdocs/cd_igniter/application/views/update_cst_dtls.php",
+		"/C/xampp/htdocs/cd_igniter/application/views/menu.php",
+		"/C/xampp/htdocs/cd_igniter/application/views/selec_dlt.php",
+		"/C/xampp/htdocs/cd_igniter/application/views/selec_update.php",
+		"/C/xampp/htdocs/cd_igniter/application/views/selec_view.php",
+		"/C/xampp/htdocs/cd_igniter/application/views/add_consumer.php",
+		"/C/xampp/htdocs/cd_igniter/application/views/success.php",
+		"/C/xampp/htdocs/cd_igniter/application/views/no_success.php",
+		"/C/xampp/htdocs/cd_igniter/application/views/dlt_cst_dtls.php",
+		"/C/xampp/htdocs/cd_igniter/application/views/inspec.php",
+		"/C/xampp/htdocs/cd_igniter/application/views/transac.php",
+		"/C/xampp/htdocs/cd_igniter/application/views/vw_cst_dtls.php",
+		"/C/xampp/htdocs/cd_igniter/application/config/database.php",
+		"/C/xampp/htdocs/cd_igniter/application/views/login_form.php",
+		"/C/xampp/htdocs/cd_igniter/application/views/property.php",
+		"/C/xampp/htdocs/cd_igniter/index.php",
+		"/C/xampp/htdocs/cd_igniter/application/config/config.php",
+		"/C/xampp/htdocs/cd_igniter/application/views/input_consumer_id.php",
+		"/C/xampp/htdocs/cd_igniter/application/views/my_view.php",
+		"/C/xampp/htdocs/cd_igniter/application/views/form.php",
+		"/C/xampp/htdocs/cd_igniter/application/views/login.php",
+		"/C/xampp/htdocs/cd_igniter/application/views/all_option.php",
+		"/C/xampp/htdocs/cd_igniter/application/config/routes.php",
+		"/C/xampp/htdocs/b/input.php",
+		"/C/xampp/htdocs/cd_igniter/application/models/index.html",
+		"/C/xampp/htdocs/cd_igniter/CodeIgniter-3.1.9/system/libraries/Trackback.php",
+		"/C/xampp/htdocs/cd_igniter/CodeIgniter-3.1.9/system/core/Loader.php",
+		"/C/xampp/htdocs/cd_igniter/application/config/autoload.php",
+		"/C/xampp/htdocs/b/index.php",
+		"/C/xampp/htdocs/b/abc.txt",
+		"/C/xampp/htdocs/b/dbm.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/xampp/htdocs/a/new/obj_php_db/includes/config.php",
+		"/C/xampp/htdocs/a/new/obj_php_db/includes/db.php",
+		"/C/xampp/htdocs/a/new/obj_php_db/index.html",
+		"/C/xampp/htdocs/a/new/obj_php_db/css/signin.css",
+		"/C/xampp/htdocs/a/new/obj_php_db/js/bootstrap.js",
+		"/C/xampp/htdocs/a/new/obj_php_db/index.php",
+		"/C/xampp/htdocs/a/new/db.php",
+		"/C/xampp/htdocs/a/index.php",
+		"/C/xampp/htdocs/a/index.html",
+		"/C/xampp/htdocs/a/new/index.php",
+		"/C/xampp/htdocs/a/new/land.php",
+		"/C/xampp/htdocs/a/new/obj_php_db/config.php",
+		"/C/Users/abhi/Desktop/project/New folder/bid.html",
+		"/C/Users/abhi/Desktop/project/New folder/mystyle.css",
+		"/C/Users/abhi/Desktop/project/New folder/login.html",
+		"/C/Users/abhi/Desktop/project/New folder/cs2.css",
+		"/C/Users/abhi/Desktop/project/New folder/login1.html",
+		"/C/Users/abhi/Desktop/project/New folder/cs3.css",
+		"/C/xampp/htdocs/a/db.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
